@@ -1,4 +1,4 @@
 i = 0
-while i < 50:
+while i < 70:
     print('Hello')
-    i += 1
+    i += 3
